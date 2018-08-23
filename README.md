@@ -1,6 +1,7 @@
-# About-Me
-A repo that acts as a kind of GitHub CV - explains my experience and interests, and links to useful things like LinkedIn, RPubs, and other webpages about me.
+# Useful Links
 
-RPubs [Click Here](http://rpubs.com/Ashcroft)
-LinkedIn [Click Here](www.linkedin.com/in/samashcroft)
-Department webpage https://www1.chester.ac.uk/departments/psychology/staff/sam-ashcroft
+LinkedIn Profile [Click Here](www.linkedin.com/in/samashcroft)
+
+RPubs Profile (for R code examples) [Click Here](http://rpubs.com/Ashcroft)
+
+Department Webpage (where I teach statistics and research methods) [Click Here](https://www1.chester.ac.uk/departments/psychology/staff/sam-ashcroft)
