@@ -1,7 +1,7 @@
 # Sam Ashcroft Bio
-Sam is doing a PhD human behaviour, and for this he analyses the data from Python-based computer experiments and psychophysiological recordings using R, Excel and SPSS.
+Sam is doing a PhD in human behaviour. For this he analyses the data from Python-based computer experiments and psychophysiological recordings using R, Excel and SPSS.
 
-He also teaches Research Methods and Statistics at degree-level as a Graduate Teaching Assistant. Sam teaches various statistical techniques using data-analysis software. Additionally, he teaches how to write up and present research and statistics to a publishable standard.
+He also teaches Research Methods and Statistics at degree-level. Sam teaches various statistical techniques using data-analysis software. Additionally, he teaches how to write up and present research and statistics to a publishable standard.
 
 Sam is the founder and President of the Data Science Society - a supportive community of PhDs/MScs/UGs and Staff that practice or are interested in Data Science using Python, R, and SQL.
 
